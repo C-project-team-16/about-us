@@ -1,7 +1,6 @@
 # about-us
-tommorow is republic day
+
 Hello world
-you
-Hello I cloned 
-hello
-hi
+Hello I cloned -Sumanth
+Hello I cloned -Chinmay Parekh
+
